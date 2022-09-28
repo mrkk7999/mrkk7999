@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<--
 # title 1
 ## title 2
 ### title 3
@@ -51,3 +52,4 @@ console.log(name);
 > I am a quote to give context
 
 I am normal text talking about the above quote ☝️ 
+-->
