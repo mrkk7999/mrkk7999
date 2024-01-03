@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+[![Gmail Badge](https://img.shields.io/badge/-mrkk7999@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mrkk7999@gmail.com)](mailto:mrkk7999@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mrkk7999/)](https://www.linkedin.com/in/mrkk7999/)
+
+
 <!--
 **mrkk7999/mrkk7999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
